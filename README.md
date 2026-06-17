@@ -16,7 +16,8 @@ The dashboard helps identify health patterns and provides visual insights for da
 
 ## Dashboard Preview
 
-Dashboard screenshots are provided below.
+![Dashboard Page 1](Screenshot 2026-06-17 225345.png)
+![Dashboard Page 2]()
 
 ## Key Insights & Findings
 
