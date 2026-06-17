@@ -16,7 +16,7 @@ The dashboard helps identify health patterns and provides visual insights for da
 
 ## Dashboard Preview
 
-![Dashboard Page 1]("C:\Users\hp\Desktop\smoking\Screenshot 2026-06-17 225509.png")
+![Dashboard Page 1](smoking/Screenshot 2026-06-17 225509.png")
 
 
 ## Key Insights & Findings
