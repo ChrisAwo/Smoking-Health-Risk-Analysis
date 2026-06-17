@@ -1,6 +1,6 @@
 # Smoking Health Risk Analysis
 Python + Power BI Project | Images ➝ Data ➝ Insights | Interactive Power BI dashboard analyzing smoking behavior and health risk indicators. 
-# Smoking Health Risk Analysis Dashboard
+
 
 ## Project Overview
 
