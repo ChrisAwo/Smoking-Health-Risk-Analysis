@@ -17,6 +17,15 @@ The dashboard helps identify health patterns and provides visual insights for da
 ## Dashboard Preview
 
 ![Page 1](smoking/1.png)
+![Page 2](smoking/2.png)
+![Page 3](smoking/3.png)
+![Page 4](smoking/4)
+![Page 5](smoking/5)
+![Page 6](smoking/6)
+![Page 7](smoking/7)
+![Page 8](smoking/8)
+![Page 9](smoking/9)
+![Page 10](smoking/10)
 
 
 ## Key Insights & Findings
