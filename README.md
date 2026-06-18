@@ -4,15 +4,14 @@ Python + Power BI Project | Images ➝ Data ➝ Insights | Interactive Power BI 
 
 ## Project Overview
 
-This project explores smoking behavior and health outcomes using an interactive Power BI dashboard. The analysis focuses on smoking exposure, years of smoking, alcohol consumption, BMI, cholesterol levels, blood pressure risk, family history, and organ health conditions.
+This project explores the relationship between smoking habits, lifestyle indicators, and organ health using an interactive Power BI dashboard.
 
-The dashboard helps identify health patterns and provides visual insights for data-driven decision-making.
+The dashboard compares healthy and damaged organs across multiple categories, including the heart, lungs, liver, kidneys, and overall body health. It also examines factors such as age, BMI, smoking status, cholesterol levels, and hypertension risk to identify patterns that may influence health outcomes.
 
 ## Tools & Technologies
 
-* Python (OpenCV, NumPy, Pandas, Matplotlib)
+* Excel
 * Power BI
-* Jupyter Notebook
 
 ## Dashboard Preview
 
@@ -27,11 +26,32 @@ The dashboard helps identify health patterns and provides visual insights for da
 ![Page 9](smoking/9)
 ![Page 10](smoking/10)
 
+Dashboard Overview
+
+The dashboard allows users to:
+
+Compare healthy and damaged organ conditions
+Analyze smoking status distributions
+Explore age and BMI trends
+Examine cholesterol and hypertension risk patterns
+Filter results by organ type
+
+Organ categories included:
+
+Heart
+Lungs
+Liver
+Kidneys
+Overall Body Health
+
 
 ## Key Insights & Findings
 
-* Smoking intensity varied significantly across age groups.
-* Higher smoking exposure was associated with increased health risks.
-* Organ condition patterns showed differences between healthy and damaged organs.
-* Multiple lifestyle and health factors contributed to overall risk profiles.
-* Interactive visualizations allow users to explore patient and risk trends effectively.
+The analysis suggests that organ health is influenced by a combination of factors rather than smoking status alone. While smoking remains an important health indicator, the dashboard shows that age, BMI, and other risk factors may also contribute to overall health outcomes. By comparing healthy and damaged organ groups, the dashboard provides a broader view of how different variables interact within the dataset.
+
+## Recommendations
+
+* Continue monitoring smoking behavior alongside other lifestyle and health indicators.
+* Consider additional analysis on age-related health trends.
+* Expand the dataset to include more health variables for deeper risk assessment.
+* Use interactive filtering to investigate specific patient groups and organ conditions.
