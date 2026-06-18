@@ -11,6 +11,7 @@ The dashboard compares healthy and damaged organs across multiple categories, in
 ## Tools & Technologies
 
 * Excel
+  ![Page 11](smoking/11)
 * Power BI
 
 ## Dashboard Preview
